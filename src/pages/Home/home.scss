@@ -1,0 +1,16 @@
+.field-container {
+  margin-bottom: 20px;
+  background-color: aquamarine;
+  padding: 20px;
+  display: flex;
+
+  .field {
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+
+    .text {
+      margin-right: 10px;
+    }
+  }
+}
